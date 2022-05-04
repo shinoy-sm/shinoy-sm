@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinoy-sm
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning data
-- 💞️ I’m looking to collaborate on data
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
 <!---
